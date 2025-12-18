@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DeganiOmaar
+- 👋 Hi, I’m Degani Omaar
 - 👀 I’m interested in mobile developper
-- 🌱 I’m currently learning Flutter & Dart
+- 📱 I’m currently  Flutter Developer & Freelancer
 - 📫 How to reach me : 29750827
 
 <!---
